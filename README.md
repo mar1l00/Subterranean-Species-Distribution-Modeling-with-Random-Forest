@@ -1,0 +1,2 @@
+# Subterranean-Species-Distribution-Modeling-with-Random-Forest
+This repository contains the code and workflow for applying Random Forest models to predict the distribution of subterranean species using environmental predictors. The complete methodology, results, and discussion are available in the associated publication on ScienceDirect:  https://www.sciencedirect.com/science/article/pii/S3050475925005603
